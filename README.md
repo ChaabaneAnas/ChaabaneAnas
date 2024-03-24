@@ -27,7 +27,7 @@
 ### :man_technologist: About Me : 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
 
-- :telescope: Currently Learning TypeScript
+- :telescope: Currently Learning NextJs
 
 - :seedling: Exploring Technical Content Writing.
 
